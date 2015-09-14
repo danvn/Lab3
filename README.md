@@ -2,4 +2,5 @@
 
 Dan Nguyen
 Git Version Control Lab
+Partner: Taylor Moede
 
